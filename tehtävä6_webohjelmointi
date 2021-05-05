@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* unvisited link */
+a:link {
+  color: blue;
+  text-decoration: none;
+  font-size:20px;
+  text-transform: uppercase;
+}
+
+/* visited link */
+a:visited {
+  font-size: 3px;
+  text-decoration: none;
+  color:blue;
+  text-transform: uppercase;
+}
+
+/* mouse over link */
+a:hover {
+  color: gray;
+  font-size:40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+h1::first-letter{
+font-size:70px;
+color:gray;
+}
+
+h2::first-letter{
+font-size:70px;
+color:gray;
+}
+
+h3::first-letter{
+font-size:70px;
+color:gray;
+}
+
+h4::first-letter{
+font-size:70px;
+color:gray;
+}
+
+h5::first-letter{
+font-size:70px;
+color:gray;
+}
+
+h6::first-letter{
+font-size:70px;
+color:gray;
+}
+</style>
+</head>
+<body>
+<h1>Iltalehti</h1>
+<p><a href="https://www.iltalehti.fi/" target="_blank">Iltalehden sivusto</a></p><br>
+
+<h2>W3school</h2>
+<p><a href="https://www.w3schools.com/" target="_blank">W3schoolin sivusto</a></p><br>
+
+<h3>Iltasanomat</h3>
+<p><a href="https://www.is.fi/" target="_blank">Iltasanomien sivusto</a></p><br>
+
+<h4>YLE</h4>
+<p><a href="https://yle.fi/" target="_blank">Ylen sivusto</a></p><br>
+
+<h5>YLE</h5>
+<p><a href="https://www.hs.fi/" target="_blank">HS:n sivusto</a></p><br>
+
+<h6>Aamulehti</h6>
+<p><a href="https://www.aamulehti.fi/" target="_blank">Aamulehden sivusto</a></p><br>
+
+</body>
+</html>
