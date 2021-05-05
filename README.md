@@ -9,7 +9,7 @@
    <body>
       <h1>Company</h1>
       <p>
-         Linkkejä<a href="linkkejatehtava6.html">team</a> eri nettisivuille.
+         Linkkejä <a href="linkkejatehtava6.html">team</a> eri nettisivuille.
       </p>
    </body>
 </html>
